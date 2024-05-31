@@ -1,0 +1,11 @@
+# Câu 7: Nhập điểm các môn học kỳ này của 5 bạn và cho biết bạn nào có điểm cao và thấp nhất?
+print("\nCâu 7: Nhập điểm các môn học kỳ này của 5 bạn và cho biết bạn nào có điểm cao và thấp nhất?")
+student1 = float(input("Nhập điểm của bạn 1: "))
+student2 = float(input("Nhập điểm của bạn 2: "))
+student3 = float(input("Nhập điểm của bạn 3: "))
+student4 = float(input("Nhập điểm của bạn 4: "))
+student5 = float(input("Nhập điểm của bạn 5: "))
+max_score = max(student1, student2, student3, student4, student5)
+min_score = min(student1, student2, student3, student4, student5)
+print("Điểm cao nhất của các bạn là:", max_score)
+print("Điểm thấp nhất của các bạn là:", min_score)

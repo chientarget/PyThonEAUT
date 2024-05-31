@@ -1,0 +1,30 @@
+Nguyen Văn A
+Toán: 8.0
+Ngữ Văn: 9.0
+Lý: 7.0
+Hóa: 5.0
+Sinh: 9.0
+Nguyen Van B
+Toán: 9.0
+Ngữ Văn: 9.0
+Lý: 10.0
+Hóa: 9.0
+Sinh: 8.0
+Nguyen Van B
+Toán: 8.0
+Ngữ Văn: 7.0
+Lý: 9.0
+Hóa: 8.0
+Sinh: 5.0
+Nguyen văn C
+Toán: 8.0
+Ngữ Văn: 9.0
+Lý: 10.0
+Hóa: 5.0
+Sinh: 0.0
+Nguyen Van j
+Toán: 8.0
+Ngữ Văn: 7.0
+Lý: 4.0
+Hóa: 6.0
+Sinh: 7.0

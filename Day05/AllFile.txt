@@ -1,0 +1,17 @@
+Nguyễn Huy ChiếnSố a: 5
+Số b: 6
+Tổng: 11
+Hiệu: -1
+Tích: 30
+Thương: 0.8333333333333334
+Số a: 5
+Số b: 8
+Tổng: 13
+Hiệu: -3
+Tích: 40
+Thương: 0.625
+nguyen huy chien 5
+nguyen van b 9
+b 10
+cc 9
+t 3
