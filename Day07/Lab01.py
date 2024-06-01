@@ -13,15 +13,15 @@ def gotoo(x, y):
 def VetrucToaDo():
     # Vẽ trục y
     penup()
-    goto(0, -1000)  # Điểm bắt đầu của trục y
+    goto(0, -1000)
     pendown()
-    goto(0, 1000)  # Điểm kết thúc của trục y
+    goto(0, 1000)
 
     # Vẽ trục x
     penup()
-    goto(-1000, 0)  # Điểm bắt đầu của trục x
+    goto(-1000, 0)
     pendown()
-    goto(1000, 0)  # Điểm kết thúc của trục x
+    goto(1000, 0)
     penup()
     goto(0, 0)
     pendown()
