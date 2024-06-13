@@ -10,6 +10,7 @@ def main():
     connection = sqlite3.connect('BookInfo.db')
     cursor = connection.cursor()
 
+
     year = input("Mời nhập năm xuất bản:")
     display_books_after_year(cursor, year)
     connection.close()
